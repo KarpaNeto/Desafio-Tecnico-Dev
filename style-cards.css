@@ -1,0 +1,48 @@
+body {
+	overflow-y: scroll;
+}
+
+h1 {
+    margin-bottom: 30px;
+	text-align: center;
+	font-size: 54px;
+    color: #eee;
+}
+
+.card {
+	padding: 40px;
+	margin: 0 auto;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+	grid-gap: 20px;
+	
+}
+
+.card li {
+	font-size: 25px;
+    border-radius: 25px;
+    border: thick  groove  rgb(	238, 238, 238);
+    background-color:rgb(31, 39, 56, 0.7);
+	padding: 20px;
+	color: #eee;
+	text-align: center;
+	position: relative;
+	opacity: 0.5;
+	cursor: pointer;
+	
+}
+
+.card h3 {
+	font-size: 15px;
+	font-weight: 200;
+}
+.card li:hover {
+	opacity: 1;
+	transform:translateY(-10px);
+}
+
+.card-image {
+    border-radius: 15px;
+	height: 150px;
+	position: relative;
+}
