@@ -18,7 +18,7 @@
 
 body {
     background-image: var(--sombra-bg),
-    url(/images/background.jpg);
+    url(background.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
