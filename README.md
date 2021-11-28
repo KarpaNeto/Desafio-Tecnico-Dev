@@ -1,14 +1,16 @@
+Desafio:
+Elaborar uma pagina com HTML, CSS e JS. Com a pagina inicial, pagina de naves e pagina de pilotos.
+Nesse projeto foi escolhido a API swapi.dev para pegar as informações das naves e pilotos.
 
-Nesse desafio usei o Fetch API pra fazer as requisições HTTP, é muito similar ao XMLHttpRequest.
-Porém eu achei muito mais simples de aprender e aplicar com Fetch. Além disso, usei JQuery apenas para tentar simplificar e não ficar tão poluido a parte de aplicar ao HTML.
-Como estou iniciando ainda, foi um excelente desafio pra eu adquirir novos conhecimentos.
-Iniciei recentemente meus estudos na programação, começando com Python. Porém pouco tinha visto sobre Javascript.
 
-Esse projeto foi excelente e muito prazeroso em realizar. Acredito que poderia ter feito algo com mais funcionalidades, tentei e testei algumas funções, porém optei em deixar de um modo mais simples. Continuarei trabalhando em cima dele pra aprimorar cada vez mais.
-Vai ser uma excelente base para poder evoluir de agora em diante.
+Minhas considerações sobre o projeto:
+Nesse desafio usei o Fetch API pra fazer as requisições HTTP, pois é uma maneira eficiente e simples de entender.
+
+Esse projeto excelente e muito prazeroso em realizar. Adquiri muito conhecimento só com esse pequeno projeto, pesquisando, estudando e entendendo o que cada linha de código faz. 
 
 A parte de HTML e CSS eu vinha estudando antes do próprio javascript, entender como funciona o CSS era um grande desafio, mas cada dia eu vou entendendo mais suas funcionalidades e o poder que ele tem.
 
-Fiquei feliz com o resultado, pelo pouco tempo que estou na área, sempre bom ver a evolução. 
+Acredito que agora posso desenvolver em cima desse projeto pra criar mais funcionalidades. Vai ser uma excelente base de estudos.
+
 
 
