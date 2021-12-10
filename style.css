@@ -19,8 +19,8 @@
 }
 
 body {
-    background-image: var(--sombra-bg),
-        url(background.jpg);
+    background: url('background.jpg');
+    overflow-y: scroll;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
