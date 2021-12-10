@@ -1,25 +1,26 @@
-body {
-	overflow-y: scroll;
+.card__container {
+	padding: 10px;
 }
 
-h1 {
+.card__tittle {
     margin-bottom: 30px;
 	text-align: center;
 	font-size: 54px;
     color: #eee;
 }
 
-.card {
-	padding: 40px;
-	margin: 0 auto;
+.card__list{
+	padding: 10px;
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
 	grid-gap: 20px;
+	position: relative;
+	
 	
 }
 
-.card li {
-	font-size: 25px;
+.card__list li {
+	font-size: 20px;
     border-radius: 25px;
     border: thick  groove  rgb(	238, 238, 238);
     background-color:rgb(31, 39, 56, 0.7);
@@ -32,17 +33,18 @@ h1 {
 	
 }
 
-.card h3 {
+.card__list h3 {
 	font-size: 15px;
 	font-weight: 200;
 }
-.card li:hover {
+.card__list li:hover {
 	opacity: 1;
 	transform:translateY(-10px);
 }
 
-.card-image {
+.card__image {
     border-radius: 15px;
 	height: 150px;
 	position: relative;
 }
+
