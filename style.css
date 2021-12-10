@@ -21,7 +21,7 @@
 body {
     background: url('background.jpg');
     overflow-y: scroll;
-    background-position: center;
+    background-position: cover;
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
